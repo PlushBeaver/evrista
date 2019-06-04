@@ -1,3 +1,5 @@
+<a href="https://godoc.org/github.com/PlushBeaver/evrista"><img src="https://godoc.org/github.com/PlushBeaver/evrista?status.svg" alt="GoDOc badge"/></a>
+
 # Работа с файлами ЭВРИСТА® (`*.gnt`)
 
 Библиотека для чтения файлов [ЭВРИСТА®][evrista] и утилита для их
