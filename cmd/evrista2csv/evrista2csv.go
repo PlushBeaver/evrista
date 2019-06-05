@@ -54,6 +54,8 @@ func export(datum *evrista.File, out io.Writer) error {
 		i++
 	}
 
+	w.Flush()
+
 	return nil
 }
 
